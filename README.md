@@ -33,9 +33,8 @@ vless://20d2b077-7d3b-4e0c-a80d-a2f7fef2e591@3.134.117.119:13684?encryption=none
 
 ## 🔗 更多免费节点推荐
 
-- 🌐 [免费节点](https://clashgithub.com)
-- ⚡ [Clash 节点合集](https://github.com/aiboboxx/clashfree)
-- 📡 [Clash 免费订阅](https://clashbk.github.io/)
+- 🌐 [免费hysteria2节点](https://github.com/iamsohot6662/freeNodesList)
+- ⚡ [singbox 节点合集](https://github.com/iamsohot6662/freeNodesList)
   
 
 更多推荐：[免费节点](https://clashgithub.com)  [clash节点](https://github.com/aiboboxx/clashfree)  [免费clash节点](https://clashbk.github.io/)
