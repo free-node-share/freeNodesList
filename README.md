@@ -11,7 +11,6 @@
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL
 或者用客户端自带的扫码功能扫码即可
 
-
 ## hysteria2类型免费节点
 
 hysteria2://f9de6797885c9426@3.134.117.119:11832/?sni=bing.com&insecure=1
@@ -22,17 +21,21 @@ vless://20d2b077-7d3b-4e0c-a80d-a2f7fef2e591@3.134.117.119:13684?encryption=none
 
 节点二维码加telegram获取，第一时间获取节点信息
 
-[@FreeVpnSharing]([[https://doc.kspub.top/3526.html](https://t.me/bscloud_chat](https://t.me/FreeVpnSharing)))
+
+[@FreeVpnSharing](https://t.me/FreeVpnSharing)
+
+## ❤️ 节点赞助
+
+节点由 **bscloud** 提供赞助支持。
+📢 Telegram 群组：
+🔗 [@bscloud_chat](https://t.me/bscloud_chat)
 
 
+## 🔗 更多免费节点推荐
 
-## 赞助
-
-节点由bscloud赞助：
-
-电报群：
-
-[@bscloud_chat]([https://doc.kspub.top/3526.html](https://t.me/bscloud_chat))
-
+- 🌐 [免费节点](https://clashgithub.com)
+- ⚡ [Clash 节点合集](https://github.com/aiboboxx/clashfree)
+- 📡 [Clash 免费订阅](https://clashbk.github.io/)
+  
 
 更多推荐：[免费节点](https://clashgithub.com)  [clash节点](https://github.com/aiboboxx/clashfree)  [免费clash节点](https://clashbk.github.io/)
